@@ -1,0 +1,2621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+	<Document>
+		<Placemark>
+			<description>493 m<br />09:24:02</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.23876,41.43831,493</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>470 m<br />09:24:49</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.23879,41.43831,470</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>444 m<br />09:25:36</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.23880,41.43824,444</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>547 m<br />09:26:23</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.23757,41.43687,547</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>681 m<br />09:27:10</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.23701,41.43530,681</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>718 m<br />09:27:57</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.23734,41.43375,718</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>868 m<br />09:28:41</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.23656,41.43280,868</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>1029 m<br />09:29:28</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.23543,41.43191,1029</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>1177 m<br />09:30:15</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.23490,41.43010,1177</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>1315 m<br />09:31:02</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.23554,41.42966,1315</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>1456 m<br />09:31:49</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.23652,41.43051,1456</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>1563 m<br />09:32:36</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.23734,41.43197,1563</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>1712 m<br />09:33:23</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.23737,41.43284,1712</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>1842 m<br />09:34:10</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.23644,41.43436,1842</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>1999 m<br />09:34:57</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.23531,41.43639,1999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>2139 m<br />09:35:44</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.23439,41.43775,2139</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>2275 m<br />09:36:31</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.23318,41.43791,2275</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>2385 m<br />09:37:18</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.23168,41.43738,2385</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>2464 m<br />09:38:05</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.23014,41.43727,2464</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>2536 m<br />09:38:52</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.22893,41.43707,2536</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>2601 m<br />09:39:39</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.22773,41.43708,2601</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>2656 m<br />09:40:26</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.22672,41.43718,2656</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>2724 m<br />09:41:13</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.22561,41.43704,2724</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>2872 m<br />09:42:00</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.22496,41.43647,2872</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>2979 m<br />09:42:47</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.22422,41.43566,2979</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>3098 m<br />09:43:34</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.22388,41.43485,3098</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>3261 m<br />09:44:21</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.22284,41.43412,3261</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>3402 m<br />09:45:08</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.22156,41.43340,3402</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>3557 m<br />09:45:55</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.22044,41.43317,3557</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>3690 m<br />09:46:42</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.21978,41.43303,3690</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>3813 m<br />09:47:29</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.21897,41.43379,3813</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>3923 m<br />09:48:16</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.21805,41.43494,3923</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>4029 m<br />09:49:03</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.21642,41.43662,4029</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>4126 m<br />09:49:50</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.21450,41.43840,4126</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>4235 m<br />09:50:37</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.21258,41.43986,4235</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>4343 m<br />09:51:24</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.21040,41.44098,4343</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>4445 m<br />09:52:11</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.20808,41.44212,4445</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>4535 m<br />09:52:58</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.20573,41.44309,4535</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>4653 m<br />09:53:45</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.20276,41.44481,4653</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>4788 m<br />09:54:32</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.19857,41.44627,4788</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>4939 m<br />09:55:19</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.19273,41.44795,4939</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>5089 m<br />09:56:06</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.18597,41.44976,5089</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>5254 m<br />09:56:53</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.17883,41.45235,5254</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>5420 m<br />09:57:40</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.17057,41.45539,5420</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>5555 m<br />09:58:27</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.16185,41.45813,5555</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>5701 m<br />09:59:14</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.15122,41.46136,5701</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>5808 m<br />10:00:01</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.13993,41.46433,5808</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>5899 m<br />10:00:48</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.12892,41.46697,5899</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>5988 m<br />10:01:35</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.11848,41.46965,5988</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>6118 m<br />10:02:22</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.10835,41.47169,6118</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>6247 m<br />10:03:09</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.09827,41.47321,6247</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>6350 m<br />10:03:56</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.08842,41.47485,6350</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>6439 m<br />10:04:43</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.07837,41.47683,6439</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>6518 m<br />10:05:30</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.06843,41.47893,6518</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>6588 m<br />10:06:17</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.05859,41.48130,6588</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>6671 m<br />10:07:04</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.04814,41.48424,6671</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>6743 m<br />10:07:51</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.03768,41.48753,6743</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>6813 m<br />10:08:38</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.02706,41.49117,6813</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>6897 m<br />10:09:25</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.01632,41.49563,6897</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>6986 m<br />10:10:12</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.00586,41.50035,6986</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>7080 m<br />10:10:59</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.99568,41.50504,7080</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>7170 m<br />10:11:46</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.98636,41.51003,7170</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>7267 m<br />10:12:33</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.97715,41.51495,7267</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>7373 m<br />10:13:20</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.96774,41.51970,7373</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>7468 m<br />10:14:07</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.95827,41.52458,7468</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>7568 m<br />10:14:54</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.94877,41.52947,7568</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>7672 m<br />10:15:41</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.93907,41.53438,7672</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>7785 m<br />10:16:28</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.92950,41.53915,7785</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>7921 m<br />10:17:15</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.92072,41.54347,7921</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>8005 m<br />10:18:02</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.91242,41.54813,8005</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>8086 m<br />10:18:49</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.90456,41.55277,8086</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>8163 m<br />10:19:36</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.89703,41.55728,8163</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>8237 m<br />10:20:23</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.88956,41.56153,8237</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>8309 m<br />10:21:10</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.88181,41.56594,8309</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>8379 m<br />10:21:57</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.87383,41.57037,8379</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>8450 m<br />10:22:44</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.86569,41.57463,8450</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>8522 m<br />10:23:31</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.85750,41.57874,8522</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>8594 m<br />10:24:18</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.84961,41.58268,8594</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>8671 m<br />10:25:05</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.84149,41.58641,8671</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>8741 m<br />10:25:52</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.83308,41.59029,8741</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>8823 m<br />10:26:39</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.82448,41.59375,8823</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>8910 m<br />10:27:26</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.81582,41.59723,8910</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>9009 m<br />10:28:13</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.80702,41.60041,9009</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>9112 m<br />10:29:00</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.79800,41.60351,9112</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>9230 m<br />10:29:47</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.78882,41.60678,9230</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>9344 m<br />10:30:34</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.77951,41.60998,9344</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>9461 m<br />10:31:21</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.76971,41.61290,9461</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>9575 m<br />10:32:08</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.75982,41.61575,9575</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>9686 m<br />10:32:55</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.74974,41.61857,9686</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>9801 m<br />10:33:42</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.73947,41.62142,9801</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>9947 m<br />10:34:29</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.72807,41.62456,9947</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>10086 m<br />10:35:16</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.71661,41.62774,10086</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>10242 m<br />10:36:03</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.70408,41.63205,10242</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>10359 m<br />10:36:50</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.69024,41.63689,10359</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>10452 m<br />10:37:37</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.67594,41.64185,10452</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>10549 m<br />10:38:24</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.66146,41.64672,10549</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>10653 m<br />10:39:11</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.64709,41.65182,10653</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>10758 m<br />10:39:58</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.63278,41.65725,10758</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>10862 m<br />10:40:45</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.61875,41.66297,10862</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>10959 m<br />10:41:32</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.60486,41.66859,10959</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>11052 m<br />10:42:19</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.59112,41.67410,11052</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>11137 m<br />10:43:06</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.57746,41.67960,11137</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>11221 m<br />10:43:53</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.56364,41.68497,11221</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>11309 m<br />10:44:40</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.55003,41.69042,11309</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>11398 m<br />10:45:27</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.53582,41.69596,11398</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>11496 m<br />10:46:14</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.52083,41.70123,11496</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>11598 m<br />10:47:01</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.50534,41.70645,11598</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>11697 m<br />10:47:48</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.48960,41.71191,11697</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>11789 m<br />10:48:35</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.47409,41.71764,11789</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>11882 m<br />10:49:22</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.45844,41.72380,11882</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>11970 m<br />10:50:09</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.44228,41.73043,11970</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>12064 m<br />10:50:56</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.42575,41.73683,12064</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>12168 m<br />10:51:43</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.40947,41.74290,12168</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>12283 m<br />10:52:30</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.39337,41.74860,12283</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>12392 m<br />10:53:17</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.37727,41.75533,12392</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>12513 m<br />10:54:04</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.36015,41.76207,12513</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>12606 m<br />10:54:51</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.34178,41.76892,12606</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>12681 m<br />10:55:38</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.32337,41.77539,12681</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>12774 m<br />10:56:25</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.30453,41.78149,12774</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>12910 m<br />10:57:12</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.28592,41.78712,12910</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>13059 m<br />10:57:59</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.26850,41.79202,13059</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>13202 m<br />10:58:46</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.25250,41.79663,13202</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>13411 m<br />10:59:33</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.23781,41.80008,13411</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>13623 m<br />11:00:20</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.22552,41.80114,13623</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>13762 m<br />11:01:07</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.21540,41.80081,13762</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>13867 m<br />11:01:54</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.20618,41.80015,13867</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>14011 m<br />11:02:41</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.19529,41.79977,14011</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>14176 m<br />11:03:28</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.18460,41.80018,14176</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>14320 m<br />11:04:15</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.17461,41.80090,14320</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>14442 m<br />11:05:02</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.16388,41.80174,14442</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>14549 m<br />11:05:49</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.15300,41.80333,14549</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>14655 m<br />11:06:36</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.14279,41.80509,14655</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>14756 m<br />11:07:23</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.13316,41.80655,14756</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>14872 m<br />11:08:10</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.12420,41.80883,14872</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>14996 m<br />11:08:57</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.11438,41.81148,14996</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>15118 m<br />11:09:44</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.10334,41.81318,15118</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>15240 m<br />11:10:31</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.09207,41.81433,15240</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>15374 m<br />11:11:18</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.08164,41.81451,15374</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>15493 m<br />11:12:05</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.07124,41.81350,15493</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>15609 m<br />11:12:52</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.06102,41.81243,15609</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>15731 m<br />11:13:39</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.05190,41.81196,15731</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>15849 m<br />11:14:26</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.04394,41.81205,15849</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>15971 m<br />11:15:13</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.03642,41.81206,15971</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>16098 m<br />11:16:00</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.02921,41.81160,16098</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>16228 m<br />11:16:47</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.02157,41.81087,16228</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>16353 m<br />11:17:34</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.01374,41.81005,16353</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>16464 m<br />11:18:21</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.00685,41.80945,16464</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>16577 m<br />11:19:08</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.00015,41.80899,16577</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>16699 m<br />11:19:55</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.00650,41.80908,16699</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>16830 m<br />11:20:42</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.01332,41.80912,16830</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>16981 m<br />11:21:29</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.02086,41.80806,16981</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>17129 m<br />11:22:16</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.02665,41.80580,17129</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>17276 m<br />11:23:03</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.03186,41.80403,17276</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>17392 m<br />11:23:50</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.03652,41.80299,17392</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>17501 m<br />11:24:37</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.04195,41.80238,17501</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>17616 m<br />11:25:24</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.04740,41.80176,17616</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>17731 m<br />11:26:11</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.05206,41.79929,17731</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>17857 m<br />11:26:58</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.05617,41.79702,17857</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>17989 m<br />11:27:45</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.05886,41.79459,17989</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>18118 m<br />11:28:32</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.06053,41.79216,18118</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>18248 m<br />11:29:19</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.06088,41.78931,18248</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>18373 m<br />11:30:06</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.06170,41.78689,18373</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>18503 m<br />11:30:53</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.06358,41.78571,18503</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>18623 m<br />11:31:40</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.06602,41.78415,18623</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>18742 m<br />11:32:27</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.06875,41.78259,18742</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>18864 m<br />11:33:14</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.07176,41.77965,18864</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>18989 m<br />11:34:01</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.07355,41.77586,18989</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>19115 m<br />11:34:48</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.07421,41.77218,19115</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>19245 m<br />11:35:35</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.07335,41.76979,19245</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>19379 m<br />11:36:22</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.07233,41.76887,19379</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>19512 m<br />11:37:09</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.07065,41.76972,19512</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>19632 m<br />11:37:56</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.06988,41.77104,19632</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>19755 m<br />11:38:43</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.06949,41.77134,19755</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>19885 m<br />11:39:30</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.06859,41.77106,19885</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>20020 m<br />11:40:17</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.06785,41.77032,20020</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>20148 m<br />11:41:04</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.06788,41.76846,20148</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>20261 m<br />11:41:51</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.06650,41.76574,20261</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>20367 m<br />11:42:38</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.06346,41.76507,20367</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>20475 m<br />11:43:25</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.06121,41.76529,20475</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>20599 m<br />11:44:12</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.05847,41.76532,20599</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>20734 m<br />11:44:59</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.05490,41.76424,20734</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>20868 m<br />11:45:46</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.05047,41.76403,20868</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>20998 m<br />11:46:33</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.04777,41.76494,20998</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>21115 m<br />11:47:20</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.04572,41.76474,21115</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>21233 m<br />11:48:07</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.04225,41.76336,21233</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>21357 m<br />11:48:54</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.03898,41.76177,21357</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>21475 m<br />11:49:41</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.03535,41.75960,21475</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>21594 m<br />11:50:28</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.02984,41.75804,21594</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>21706 m<br />11:51:15</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.02462,41.75695,21706</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>21821 m<br />11:52:02</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.01857,41.75635,21821</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>21945 m<br />11:52:49</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.01131,41.75718,21945</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>22070 m<br />11:53:36</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>0.00515,41.75903,22070</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>22204 m<br />11:54:23</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.00042,41.75982,22204</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>22327 m<br />11:55:10</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.00583,41.76082,22327</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>22446 m<br />11:55:57</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.01005,41.76164,22446</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>22556 m<br />11:56:44</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.01482,41.76170,22556</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>22666 m<br />11:57:31</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.02071,41.76310,22666</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>22784 m<br />11:58:18</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.02506,41.76463,22784</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>22908 m<br />11:59:05</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.02813,41.76571,22908</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>23031 m<br />11:59:52</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.03088,41.76490,23031</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>23141 m<br />12:00:39</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.03458,41.76442,23141</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>23255 m<br />12:01:26</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.03826,41.76417,23255</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>23367 m<br />12:02:13</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.04161,41.76375,23367</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>23479 m<br />12:03:00</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.04511,41.76263,23479</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>23589 m<br />12:03:47</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.05001,41.76245,23589</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>23694 m<br />12:04:34</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.05526,41.76209,23694</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>23801 m<br />12:05:21</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.06099,41.76307,23801</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>23908 m<br />12:06:08</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.06668,41.76463,23908</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>24025 m<br />12:06:55</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.07141,41.76592,24025</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>24150 m<br />12:07:42</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.07541,41.76669,24150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>24281 m<br />12:08:29</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.07887,41.76716,24281</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>24406 m<br />12:09:16</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.08229,41.76804,24406</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>24528 m<br />12:10:03</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.08569,41.76899,24528</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>24641 m<br />12:10:50</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.08970,41.76989,24641</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>24752 m<br />12:11:37</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.09441,41.77142,24752</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>24858 m<br />12:12:24</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.09873,41.77225,24858</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>24965 m<br />12:13:11</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.10269,41.77200,24965</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>25068 m<br />12:13:58</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.10751,41.77163,25068</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>25172 m<br />12:14:45</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.11397,41.77207,25172</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>25263 m<br />12:15:32</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.12148,41.77398,25263</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>25353 m<br />12:16:19</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.12830,41.77661,25353</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>25453 m<br />12:17:06</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.13328,41.77861,25453</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>25565 m<br />12:17:53</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.13729,41.77901,25565</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>25662 m<br />12:18:40</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.14240,41.77952,25662</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>25755 m<br />12:19:27</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.14907,41.78128,25755</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>25839 m<br />12:20:14</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.15509,41.78306,25839</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>25920 m<br />12:21:01</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.15989,41.78370,25920</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>26004 m<br />12:21:48</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.16472,41.78284,26004</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>26091 m<br />12:22:35</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.17046,41.78157,26091</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>26189 m<br />12:23:22</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.17727,41.78085,26189</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>26287 m<br />12:24:09</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.18395,41.78122,26287</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>26385 m<br />12:24:56</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.19037,41.78278,26385</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>26474 m<br />12:25:43</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.19579,41.78459,26474</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>26564 m<br />12:26:30</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.20090,41.78486,26564</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>26655 m<br />12:27:17</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.20586,41.78385,26655</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>26741 m<br />12:28:04</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.21180,41.78284,26741</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>26816 m<br />12:28:51</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.21744,41.78304,26816</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>26887 m<br />12:29:38</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.22289,41.78322,26887</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>26961 m<br />12:30:25</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.22833,41.78275,26961</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>27036 m<br />12:31:12</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.23352,41.78225,27036</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>27117 m<br />12:31:59</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.23885,41.78106,27117</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>27191 m<br />12:32:46</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.24421,41.77962,27191</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>27260 m<br />12:33:33</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.24942,41.77859,27260</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>27334 m<br />12:34:20</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.25432,41.77755,27334</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>27406 m<br />12:35:07</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.25959,41.77609,27406</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>27487 m<br />12:35:54</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.26569,41.77440,27487</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>27570 m<br />12:36:41</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.27298,41.77218,27570</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>27641 m<br />12:37:28</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.28129,41.76978,27641</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>27707 m<br />12:38:15</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.28982,41.76764,27707</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>27774 m<br />12:39:02</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.29808,41.76608,27774</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>27844 m<br />12:39:49</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.30560,41.76485,27844</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>27915 m<br />12:40:36</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.31379,41.76337,27915</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>27979 m<br />12:41:23</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.32331,41.76212,27979</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>28033 m<br />12:42:10</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.33263,41.76059,28033</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>28087 m<br />12:42:57</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.34129,41.75880,28087</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>28146 m<br />12:43:44</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.35022,41.75663,28146</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>28209 m<br />12:44:31</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.35988,41.75441,28209</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>28269 m<br />12:45:18</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.37072,41.75224,28269</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>28327 m<br />12:46:05</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.38252,41.75044,28327</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>28383 m<br />12:46:52</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.39471,41.74943,28383</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>28443 m<br />12:47:39</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.40675,41.74920,28443</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>28511 m<br />12:48:26</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.41806,41.74960,28511</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>28584 m<br />12:49:13</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.42812,41.75020,28584</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>28650 m<br />12:50:00</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.43771,41.75050,28650</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>28701 m<br />12:50:47</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.44817,41.75060,28701</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>28738 m<br />12:51:34</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.45939,41.75101,28738</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>28774 m<br />12:52:21</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.47153,41.75143,28774</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>28828 m<br />12:53:08</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.48422,41.75178,28828</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>28897 m<br />12:53:55</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.49700,41.75265,28897</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>28976 m<br />12:54:42</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.50931,41.75392,28976</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29050 m<br />12:55:29</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.52095,41.75553,29050</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29110 m<br />12:56:16</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.53156,41.75725,29110</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29153 m<br />12:57:03</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.54165,41.75894,29153</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29181 m<br />12:57:50</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.55215,41.76021,29181</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29213 m<br />12:58:37</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.56311,41.76139,29213</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29263 m<br />12:59:24</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.57423,41.76243,29263</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29324 m<br />13:00:11</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.58558,41.76352,29324</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29382 m<br />13:00:58</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.59672,41.76457,29382</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29429 m<br />13:01:45</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.60723,41.76550,29429</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29470 m<br />13:02:32</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.61710,41.76665,29470</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29507 m<br />13:03:19</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.62595,41.76826,29507</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29537 m<br />13:04:06</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.63357,41.77024,29537</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29569 m<br />13:04:53</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.64073,41.77239,29569</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29596 m<br />13:05:40</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.64842,41.77410,29596</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29617 m<br />13:06:27</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.65690,41.77548,29617</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29636 m<br />13:07:14</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.66599,41.77670,29636</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29657 m<br />13:08:01</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.67562,41.77781,29657</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29682 m<br />13:08:48</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.68529,41.77887,29682</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29708 m<br />13:09:35</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.69457,41.77962,29708</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29741 m<br />13:10:22</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.70329,41.78018,29741</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29780 m<br />13:11:09</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.71143,41.78063,29780</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29822 m<br />13:11:56</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.71910,41.78094,29822</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29867 m<br />13:12:43</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.72622,41.78117,29867</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29908 m<br />13:13:30</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.73338,41.78120,29908</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>29952 m<br />13:14:17</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.74145,41.78112,29952</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>30009 m<br />13:15:04</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.75051,41.78083,30009</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>30073 m<br />13:15:51</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.76032,41.78055,30073</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>30390 m<br />13:20:28</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.81312,41.77826,30390</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>30694 m<br />13:25:05</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.86548,41.77191,30694</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>31019 m<br />13:29:42</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.92324,41.77143,31019</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>31359 m<br />13:34:19</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-0.97605,41.77160,31359</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>31674 m<br />13:38:56</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.02763,41.77539,31674</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>31928 m<br />13:43:33</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.08266,41.76791,31928</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>32183 m<br />13:48:10</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.13945,41.76822,32183</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>32306 m<br />13:52:47</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.18846,41.77275,32306</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>32431 m<br />13:57:24</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.23764,41.78043,32431</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>32601 m<br />14:02:01</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.28860,41.78559,32601</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>32786 m<br />14:06:38</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.33809,41.79109,32786</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>33070 m<br />14:11:15</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.38828,41.79465,33070</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>33302 m<br />14:15:52</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.43531,41.79559,33302</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>33490 m<br />14:20:29</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.48853,41.78926,33490</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>33636 m<br />14:25:06</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.54291,41.78347,33636</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>33690 m<br />14:29:43</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.59089,41.78310,33690</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>33767 m<br />14:34:20</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.63285,41.77940,33767</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>33746 m<br />14:38:57</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.67731,41.77739,33746</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>33864 m<br />14:43:34</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.72421,41.78067,33864</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>28580 m<br />14:48:11</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.77186,41.78229,28580</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>21273 m<br />14:52:48</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.80269,41.78020,21273</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>16734 m<br />14:57:25</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.79426,41.77317,16734</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>13404 m<br />15:02:02</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.74419,41.78322,13404</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>11083 m<br />15:06:39</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.66313,41.83838,11083</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>9879 m<br />15:09:31</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.6224,41.8694,9879</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>7532.8 m<br />15:14:41</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.5753,41.906,7532.8</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>5717.3 m<br />15:19:50</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.5237,41.9409,5717.3</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>3911 m<br />15:25:00</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.4797,41.9732,3911</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>2532.2 m<br />15:30:10</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.4784,41.9853,2532.2</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>1174.4 m<br />15:35:20</description>
+			<Point>
+				<extrude>1</extrude>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-1.4787,41.9592,1174.4</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>
