@@ -12,3 +12,5 @@ It also contains the three different pieces of code that made it all work
 * Servet_LoRa_Capsule_V6.2.ino (which reads all sensor data, sends it through LoRa and cellphone data plan, and stores it locally)
 * Servet_LoRa_Receiver_6.2.ino (which is loaded in a base station that saves what it receives to an SD card)
 * Servet_LoRaWAN_GPS_1.1 (which sends the GPS coordinates of the capsule through LoRaWAN)
+
+NOTE: The English translation of the programs is currently in progress
