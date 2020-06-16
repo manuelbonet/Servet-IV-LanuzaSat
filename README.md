@@ -13,4 +13,4 @@ It also contains the three different pieces of code that made it all work
 * Servet_LoRa_Receiver_6.2.ino (which is loaded in a base station that saves what it receives to an SD card)
 * Servet_LoRaWAN_GPS_1.1.ino (which sends the GPS coordinates of the capsule through LoRaWAN)
 
-NOTE: The English translation of the programs is currently in progress
+NOTE: The English translation of the codes' variables is in progress
